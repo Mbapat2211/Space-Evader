@@ -1,0 +1,2 @@
+This repository consists of two files. One of which contains the program code while the other consists of the documentation behind the program.
+The program in this repository consists of an Arcade Game called SPACE INVADER. 
